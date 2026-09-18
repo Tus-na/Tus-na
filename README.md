@@ -9,7 +9,6 @@
 * **Featured Projects:** 
   * `DevLingo`: Collaborative UI design & code environment.
   * `Trip Planner`: Supabase-powered trip management system.
-* **Currently:** Building AI-assisted workflow tools.
 
 ---
 
