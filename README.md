@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Tus-na
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... (tudha.ti.2225@gmail.com)
-- 😄 Pronouns: ... (Tuna)
-- ⚡ Fun fact: ... hmm
+# ⚡ Do Hoang Anh Tu (`@Tus-na`)
 
-<!---
-Tus-na/Tus-na is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Exploring AI & Web Development
+
+---
+
+### 📌 Quick Overview
+* **Focus:** Frontend Development, DevOps, and AI integrations.
+* **Featured Projects:** 
+  * `DevLingo`: Collaborative UI design & code environment.
+  * `Trip Planner`: Supabase-powered trip management system.
+* **Currently:** Building AI-assisted workflow tools.
+
+---
+
+### 📬 Get in Touch
+- **Email:** [tudha.ti.2225@gmail.com](mailto:tudha.ti.2225@gmail.com)
+- **LinkedIn:** [tu-dohoanganh-dev](https://www.linkedin.com/in/tu-dohoanganh-dev/)
